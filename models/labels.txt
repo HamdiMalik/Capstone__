@@ -1,0 +1,6 @@
+0 actinic_keratosis_600
+1 basal_cell_carcinoma_600
+2 benign_keratosis-like_lesions_600
+3 melanoma_600
+4 nevus_600
+5 squamous_cell_carcinoma_600
